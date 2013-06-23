@@ -1,7 +1,8 @@
-# PlEWiC - Polish Language Errors from Wikipedia
+# PlEWiC
 
-Scripts for searching in PlEWi corpus.
+Scripts for searching in PlEWi corpus - Polish Language Errors from Wikipedia.
 The corpus is available at http://www.staff.amu.edu.pl/~romang/wiki_errors.php
+Corpus created with script https://github.com/snukky/plerrex.git
 
 ## Installation
 
